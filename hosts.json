@@ -1,0 +1,23 @@
+[
+  {
+    "hosts_id": "1",
+    "host_name": "John Doe",
+    "host_responseTime": "2024-05-01T00:00:00Z",
+    "host_responseRate": 0.95,
+    "host_ListingsCount": 5
+  },
+  {
+    "hosts_id": "2",
+    "host_name": "Jane Smith",
+    "host_responseTime": "2024-04-20T00:00:00Z",
+    "host_responseRate": 0.90,
+    "host_ListingsCount": 3
+  },
+  {
+    "hosts_id": "3",
+    "host_name": "Mike Johnson",
+    "host_responseTime": "2024-03-15T00:00:00Z",
+    "host_responseRate": 0.85,
+    "host_ListingsCount": 8
+  }
+]

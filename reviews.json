@@ -1,0 +1,56 @@
+[
+  {
+    "reviews_id": "1",
+    "listings": {
+      "listings_id": "1"
+    },
+    "rating": 4.5,
+    "comments": "Great place to stay!",
+    "review_Date": "2024-05-02T00:00:00Z",
+    "user": {
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "birth_date": "1990-01-01",
+      "age": 33,
+      "gender": "F",
+      "phone": "1234567890",
+      "email": "alice@example.com"
+    }
+  },
+  {
+    "reviews_id": "2",
+    "listings": {
+      "listings_id": "2"
+    },
+    "rating": 5.0,
+    "comments": "Amazing experience!",
+    "review_Date": "2024-04-21T00:00:00Z",
+    "user": {
+      "first_name": "Bob",
+      "last_name": "Brown",
+      "birth_date": "1985-02-15",
+      "age": 39,
+      "gender": "M",
+      "phone": "0987654321",
+      "email": "bob@example.com"
+    }
+  },
+  {
+    "reviews_id": "3",
+    "listings": {
+      "listings_id": "3"
+    },
+    "rating": 4.0,
+    "comments": "Nice location, will come back again.",
+    "review_Date": "2024-03-16T00:00:00Z",
+    "user": {
+      "first_name": "Charlie",
+      "last_name": "Johnson",
+      "birth_date": "1975-07-07",
+      "age": 48,
+      "gender": "M",
+      "phone": "1122334455",
+      "email": "charlie@example.com"
+    }
+  }
+]
